@@ -388,7 +388,7 @@ function ChartsContent() {
                 <BarChart3 className="h-8 w-8 text-purple-400" />
               </div>
               <h3 className="text-white font-semibold mb-2">Chart {chart}</h3>
-              <p className="text-gray-400 text-sm">Sales data visualization</p>
+              <p className="text-gray-400 text-sm"> data visualization</p>
             </Card>
           </motion.div>
         ))}
